@@ -1,0 +1,47 @@
+{
+  "name": "Márcia",
+  "lastName": "Santos",
+  "description": "Criadora de conteúdo, escritora e professora de história. Conheça o meu trabalho 👇🏽",
+  "profileImage": "./assets/user-profile.png",
+  "links": [
+    {
+      "name": "Livro: O cotidiano do Brasil",
+      "url": "https://link-do-livro.com"
+    },
+    {
+      "name": "Meu último vídeo",
+      "url": "https://link-do-video.com"
+    },
+    {
+      "name": "Portfólio",
+      "url": "https://link-do-portfolio.com"
+    },
+    {
+      "name": "Agenda",
+      "url": "https://link-da-agenda.com"
+    }
+  ],
+  "socialLinks": [
+    {
+      "platform": "LinkedIn",
+      "url": "https://linkedin.com/in/marciasantos",
+      "icon": "./assets/linkedin.svg"
+    },
+    {
+      "platform": "Instagram",
+      "url": "https://instagram.com/marciasantos",
+      "icon": "./assets/instagram.svg"
+    },
+    {
+      "platform": "Facebook",
+      "url": "https://facebook.com/marciasantos",
+      "icon": "./assets/facebook.svg"
+    }
+  ],
+   "cores": {
+    "primaria": "#3C5335",
+    "background": "#D4D4D4",
+    "secundaria": "#C4FFB2"
+  }
+}
+  

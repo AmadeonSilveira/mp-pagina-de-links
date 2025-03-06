@@ -1,0 +1,68 @@
+section {
+    padding-block: 3vw;
+}
+
+/** INFORMAÇÕES DO PERFIL */
+.user-profile img {
+    width: 30vw;
+    height: 30vw;
+    max-width: 230px;
+    max-height: 230px;
+    border-radius: 50%;
+    object-fit: cover;
+    aspect-ratio: 1/1;
+}
+.user-profile h1 {
+    color: var(--primaria);
+    font-weight: 500;
+    margin: 0;
+    font-size: clamp(24px, 5vw, 65px);
+    line-height: 130%;
+    padding-top: 0.8vw;
+}
+.user-profile p {
+    color: #000000;
+    font-size: clamp(18px, 3vw, 30px);
+}
+
+/** LISTAGEM DE LINKS  */
+.user-links a {
+    border-radius: 1.5vw;
+    min-height: 40px;
+    padding: 1.5vw;
+    background-color: var(--primaria);
+    box-shadow: 0.5vw 0.5vw 0 0 var(--secundaria);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.user-links a > * {
+    color: white;
+    font-size: clamp(16px, 4vw, 44px);
+    text-align: center;
+    transition: all .3s ease-in-out;
+}
+
+
+/** REDES SOCIAIS */
+.user-redes-links img {
+    max-width: 75px;
+    width: 8vw;
+}
+.user-redes-links a{
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.user-links a:hover,
+.user-redes-links a:hover {
+    box-shadow: 0.55vw 0.55vw 0 0 var(--primaria);
+    background-color: var(--secundaria);
+}
+.user-links a:hover > * {
+    color: black;
+}
+
+.pattern {
+    display: none !important; 
+}

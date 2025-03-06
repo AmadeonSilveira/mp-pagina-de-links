@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+
+/** CONFIG */
+:root {
+    --primaria: #FF5733;
+    --background: #F1F1F1;
+    --secundaria: #FF8C00;
+}
+
+body, html, p {
+    font-family: "Arvo", sans-serif;;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 130%;
+    color: var(--primaria);
+    -webkit-box-sizing: border-box;
+    -webkit-appearance: none;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    background-color: var(--background);
+}
+
+a {
+    text-decoration: none;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -ms-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+    color: white;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+img {
+    max-width: 100%;
+}
+/** FIM CONFIG */
+
+/** CONTAINER */
+.container {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.text-center {
+    text-align: center;
+}
+
+/** FLEX BOX */
+.d-flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+.d-flex-column {
+    display: flex;
+    flex-direction: column;
+}
+
+.align-center {
+    align-items: center;
+}
+.justify-center {
+    justify-content: center;
+}
+
+.gap-10 {
+    gap: 2.6vw;
+}
+
+.flex-item {
+    -webkit-flex: auto auto;
+    flex: auto auto;
+    -webkit-flex-grow: 1;
+    flex-grow: 1;
+}
+/** FIM FLEXBOX */
+
+/** RESPONSIVIDADE */
+@media screen and (max-width: 800px) {
+    .container {
+        width: calc(100% - 50px);
+    }
+}
