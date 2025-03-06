@@ -6,35 +6,35 @@
   "links": [
     {
       "name": "Livro: O cotidiano do Brasil",
-      "url": "https://link-do-livro.com"
+      "url": ""
     },
     {
       "name": "Meu último vídeo",
-      "url": "https://link-do-video.com"
+      "url": ""
     },
     {
       "name": "Portfólio",
-      "url": "https://link-do-portfolio.com"
+      "url": ""
     },
     {
       "name": "Agenda",
-      "url": "https://link-da-agenda.com"
+      "url": ""
     }
   ],
   "socialLinks": [
     {
       "platform": "LinkedIn",
-      "url": "https://linkedin.com/in/marciasantos",
+      "url": "",
       "icon": "./assets/linkedin.svg"
     },
     {
       "platform": "Instagram",
-      "url": "https://instagram.com/marciasantos",
+      "url": "",
       "icon": "./assets/instagram.svg"
     },
     {
       "platform": "Facebook",
-      "url": "https://facebook.com/marciasantos",
+      "url": "",
       "icon": "./assets/facebook.svg"
     }
   ],
