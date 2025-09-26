@@ -3,8 +3,7 @@
 Esta é a minha implementação do desafio **Página de Links** inspirado no estilo **Linktree**, proposto pelo [Codante](https://codante.io). O objetivo era criar uma página funcional que exibe links pessoais e informações do usuário, utilizando apenas **HTML, CSS e JavaScript puro**.
 
 ## Acesse minha solução
-
-[![Ver Página](https://img.shields.io/badge/GitHub%20Pages-Live%20Preview-blue?style=for-the-badge)](https://link-para-a-sua-solucao](https://amadeonsilveira.github.io/mp-pagina-de-links/))
+[![Ver Página](https://img.shields.io/badge/GitHub%20Pages-Live%20Preview-blue?style=for-the-badge)](https://amadeonsilveira.github.io/mp-pagina-de-links/)
 
 ## Sobre o desafio
 
