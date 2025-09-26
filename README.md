@@ -4,7 +4,7 @@ Esta é a minha implementação do desafio **Página de Links** inspirado no est
 
 ## Acesse minha solução
 
-[![Ver Página](https://img.shields.io/badge/GitHub%20Pages-Live%20Preview-blue?style=for-the-badge)]([https://link-para-a-sua-solucao](https://amadeonsilveira.github.io/mp-pagina-de-links/))
+[![Ver Página](https://img.shields.io/badge/GitHub%20Pages-Live%20Preview-blue?style=for-the-badge)]([https://link-para-a-sua-solucao](https://amadeonsilveira.github.io/mp-pagina-de-links/]))
 
 ## Sobre o desafio
 
